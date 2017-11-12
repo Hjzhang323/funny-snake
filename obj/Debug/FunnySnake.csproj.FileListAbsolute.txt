@@ -1,0 +1,9 @@
+C:\hjzhang\98.program\cs\FunnySnake\bin\Debug\FunnySnake.exe.config
+C:\hjzhang\98.program\cs\FunnySnake\bin\Debug\FunnySnake.exe
+C:\hjzhang\98.program\cs\FunnySnake\bin\Debug\FunnySnake.pdb
+C:\hjzhang\98.program\cs\FunnySnake\obj\Debug\FunnySnake.csprojResolveAssemblyReference.cache
+C:\hjzhang\98.program\cs\FunnySnake\obj\Debug\FunnySnake.frmMain.resources
+C:\hjzhang\98.program\cs\FunnySnake\obj\Debug\FunnySnake.Properties.Resources.resources
+C:\hjzhang\98.program\cs\FunnySnake\obj\Debug\FunnySnake.csproj.GenerateResource.Cache
+C:\hjzhang\98.program\cs\FunnySnake\obj\Debug\FunnySnake.exe
+C:\hjzhang\98.program\cs\FunnySnake\obj\Debug\FunnySnake.pdb
