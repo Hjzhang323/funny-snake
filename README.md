@@ -1,2 +1,2 @@
 # funny-snake
-A ai driven snake gmae.
+An AI-driven snake game.
